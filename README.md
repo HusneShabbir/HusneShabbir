@@ -83,6 +83,14 @@ Coverage-driven test planning for RHDH plugin forests, including a Jira integrat
 <div align="center">
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg" />
+  <img alt="466 contributions in the past year" src="./assets/contributions-light.svg" />
+</picture>
+
+<br />
+
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HusneShabbir&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true" />
   <img height="165" alt="GitHub stats for Husne Shabbir" src="https://github-readme-stats.vercel.app/api?username=HusneShabbir&show_icons=true&hide_border=true&theme=default&rank_icon=percentile&include_all_commits=true" />
 </picture>
